@@ -13,7 +13,7 @@ readme_content = """
 ---
 
 ## 🌐 Live Demo  
-👉 **[View Live Launchpad](https://your-demo-link-here.com)** *(replace this with your deployed site URL)*  
+👉 **[View Live Launchpad](https://idmt-launchpad.vercel.app)/)** *(replace this with your deployed site URL)*  
 
 <p align="center">
   <img src="https://via.placeholder.com/1000x500.png?text=IDMT+Launchpad+Preview" alt="iDemand Token Launchpad Preview" width="80%">
